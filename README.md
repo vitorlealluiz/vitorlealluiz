@@ -4,7 +4,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNICAMP e apaixon
 Atualmente, estou me aprofundando no **desenvolvimento web**, aprendendo tanto o **frontend** quanto o **backend**, e dando meus primeiros passos em **Java**.  
 Tenho experiência em linguagens como **C, Python, C++, JavaScript, TypeScript** e também conhecimentos básicos em **MySQL**.  
 
-🔭 **Projeto em destaque:** Desenvolvimento de aplicações web, explorando desde a construção de interfaces responsivas no frontend até a lógica e a aplicação de **bando de dados** no backend.  
+🔭 **Projeto em destaque:** Desenvolvimento de aplicações web, explorando desde a construção de interfaces responsivas no frontend até a lógica e a aplicação de **banco de dados** no backend.  
 
 💬 Estou sempre aberto a trocar ideias e aprender com outros desenvolvedores. Se quiser conversar sobre **desenvolvimento web**, **projetos em aprendizado** ou **boas práticas de programação**, é só me chamar!  
 
