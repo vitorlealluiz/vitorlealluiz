@@ -13,7 +13,6 @@ Tenho experiência em linguagens como **C, Python, C++, JavaScript, TypeScript**
 
 [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:vitor.lealprof@gmail.com?subject=Contato%20via%20GitHub&body=Olá%20Vitor%2C%20tudo%20bem%3F)  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/vitorlealluiz) 
 
 ---
 
